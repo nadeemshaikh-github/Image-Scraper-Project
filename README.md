@@ -1,2 +1,2 @@
-# Image-Scraper-Project
+Image-Scraper-Project
 # Screenshot
